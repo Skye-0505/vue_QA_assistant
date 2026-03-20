@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "ref和reactive区别？",
+    "timestamp": "2026-03-20 14:46:31"
+  },
+  {
+    "role": "assistant",
+    "content": "ref 用于基本类型，reactive 用于对象。",
+    "timestamp": "2026-03-20 14:46:31"
+  }
+]

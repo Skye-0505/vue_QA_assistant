@@ -21,7 +21,7 @@ RAW_DIR = f"{DATA_DIR}/raw"            # 原始文档存放位置
 VECTOR_STORE_DIR = f"{DATA_DIR}/chroma_db"  # 向量库位置
 BM25_PATH = f"{DATA_DIR}/bm25.pkl"     # BM25索引文件
 CHUNK_SIZE = 500                        # 每块大小
-CHUNK_OVERLAP = 50                      # 重叠大小
+CHUNK_OVERLAP = 200                      # 重叠大小
 EMBEDDING_MODEL = "BAAI/bge-large-zh"   # 嵌入模型
 
 # 创建目录
