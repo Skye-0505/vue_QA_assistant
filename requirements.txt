@@ -1,0 +1,19 @@
+# 核心langchain相关（版本兼容）
+langchain==1.2.10
+langchain-core==1.2.16
+langchain-community==0.4.1
+langchain-text-splitters==1.1.1
+langchain-huggingface==0.1.2
+
+# 嵌入模型相关（解决huggingface依赖冲突）
+sentence-transformers==3.1.1
+transformers==4.41.2
+huggingface-hub==1.23.0
+
+# 向量库相关
+chromadb==0.5.0
+
+# 基础依赖
+python-magic==0.4.27
+numpy==1.26.4
+rank_bm25==0.2.2
