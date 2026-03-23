@@ -232,6 +232,12 @@ mv docs-zh-cn/* data/raw/
 - top_k：召回数量（默认 5）
 - CHUNK_SIZE：文档分割大小（默认 500）
 
+## 演示
+
+
+https://github.com/user-attachments/assets/3042c085-ffe1-48bb-9d0e-2aae7ea01638
+
+
 ---
 
 ## 后续优化方向
